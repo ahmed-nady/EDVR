@@ -17,7 +17,7 @@ EDVR won all four tracks in [NTIRE 2019 Challenges on **Video Restoration and En
 - **Multi-GPU (distributed) training**
 
 ## Added Features:
-- **Test_on_video 
+- **Test_on_video** 
 
 
 ## Dependencies and Installation
